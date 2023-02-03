@@ -1,0 +1,15 @@
+/home/golibjon/c#/Modul_2/Class.Work/bin/Debug/net7.0/Class.Work
+/home/golibjon/c#/Modul_2/Class.Work/bin/Debug/net7.0/Class.Work.deps.json
+/home/golibjon/c#/Modul_2/Class.Work/bin/Debug/net7.0/Class.Work.runtimeconfig.json
+/home/golibjon/c#/Modul_2/Class.Work/bin/Debug/net7.0/Class.Work.dll
+/home/golibjon/c#/Modul_2/Class.Work/bin/Debug/net7.0/Class.Work.pdb
+/home/golibjon/c#/Modul_2/Class.Work/obj/Debug/net7.0/Class.Work.csproj.AssemblyReference.cache
+/home/golibjon/c#/Modul_2/Class.Work/obj/Debug/net7.0/Class.Work.GeneratedMSBuildEditorConfig.editorconfig
+/home/golibjon/c#/Modul_2/Class.Work/obj/Debug/net7.0/Class.Work.AssemblyInfoInputs.cache
+/home/golibjon/c#/Modul_2/Class.Work/obj/Debug/net7.0/Class.Work.AssemblyInfo.cs
+/home/golibjon/c#/Modul_2/Class.Work/obj/Debug/net7.0/Class.Work.csproj.CoreCompileInputs.cache
+/home/golibjon/c#/Modul_2/Class.Work/obj/Debug/net7.0/Class.Work.dll
+/home/golibjon/c#/Modul_2/Class.Work/obj/Debug/net7.0/refint/Class.Work.dll
+/home/golibjon/c#/Modul_2/Class.Work/obj/Debug/net7.0/Class.Work.pdb
+/home/golibjon/c#/Modul_2/Class.Work/obj/Debug/net7.0/Class.Work.genruntimeconfig.cache
+/home/golibjon/c#/Modul_2/Class.Work/obj/Debug/net7.0/ref/Class.Work.dll
